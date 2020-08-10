@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WWK563388548&count_private=true&show_icons=true&theme=radical)
+
 <!--
 **WWK563388548/WWK563388548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
